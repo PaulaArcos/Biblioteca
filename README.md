@@ -1,6 +1,6 @@
-# 📚 Sistema de Biblioteca en Go
+📚 Sistema de Biblioteca en Go
 
-## 📖 Descripción
+📖 Descripción
 
 Este proyecto consiste en el desarrollo de un sistema de gestión de biblioteca utilizando el lenguaje de programación **Go (Golang)**.
 
@@ -10,13 +10,13 @@ El sistema fue desarrollado como parte de una actividad académica para aplicar 
 
 ---
 
-## 🎯 Objetivo
+🎯 Objetivo
 
 Desarrollar una aplicación de biblioteca que permita gestionar estudiantes, libros y préstamos mediante un sistema desarrollado en Go y conectado a SQL Server.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas
 
 - **Go (Golang)**
 - **Microsoft SQL Server**
@@ -29,7 +29,7 @@ Desarrollar una aplicación de biblioteca que permita gestionar estudiantes, lib
 
 ---
 
-## 📂 Estructura del proyecto
+📂 Estructura del proyecto
 
 ```text
 Biblioteca/
